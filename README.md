@@ -14,3 +14,4 @@ git clone https://github.com/lthiery/SPI-Py.git
 cd SPI-Py
 sudo python setup.py install
 sudo python3 setup.py install
+sudo apt-get install update
